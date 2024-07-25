@@ -1,7 +1,8 @@
 # fluux
-fluux.io is a scalable messaging service powered by ejabberd Business Edition
 
-Star this project to get the news about changes, new features and improvements directly in your Github feed.
+[fluux.io](https://fluux.io) is a scalable messaging service powered by [ejabberd Business Edition](https://www.process-one.net/en/ejabberd/#getejabberd).
+
+Star this project to get the news about [changes, new features and improvements](https://github.com/processone/fluux/discussions/categories/announcements) directly in your Github feed.
 
 ## Service
 
